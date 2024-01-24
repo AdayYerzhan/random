@@ -4,7 +4,7 @@
  */
 /* FONT PATH
  * -------------------------- */
-/* @font-face {
+@font-face {
   font-family: 'FontAwesome';
   src: url('https://randstuff.ru/public/fonts/fontawesome-webfont.eot?v=4.4.0');
   src: url('https://randstuff.ru/public/fonts/fontawesome-webfont.eot?#iefix&v=4.4.0')
@@ -19,7 +19,7 @@
       format('svg');
   font-weight: normal;
   font-style: normal;
-} */
+}
 }
 .fa {
   display: inline-block;
