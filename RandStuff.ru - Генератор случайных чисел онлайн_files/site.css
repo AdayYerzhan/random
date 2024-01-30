@@ -885,6 +885,7 @@ input:invalid {
   margin: -10px auto 0;
   padding-bottom: 40px;
   font: 96px / normal 'Open Sans';
+  font-family: system-ui;
   overflow: hidden;
 }
 
